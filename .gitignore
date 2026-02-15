@@ -1,0 +1,25 @@
+# Dependencies
+node_modules/
+
+# Environment Variables
+.env
+
+# Logs
+local.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Scraped Media
+images/
+
+# Analysis Results
+word_count_analysis.txt
+
+# OS metadata
+.DS_Store
+Thumbs.db
+
+# IDE settings
+.vscode/
+.idea/

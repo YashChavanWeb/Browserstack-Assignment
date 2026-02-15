@@ -1,0 +1,41 @@
+{
+    "name": "sdk:hook",
+    "entryType": "measure",
+    "startTime": 17340.5323,
+    "duration": 0.7322000000021944,
+    "detail": null,
+    "success": false,
+    "failure": {},
+    "worker": "34880-0",
+    "hookType": "beforeAll"
+},
+{
+    "name": "sdk:hook",
+    "entryType": "measure",
+    "startTime": 17340.5323,
+    "duration": 2.676500000001397,
+    "detail": null
+},
+{
+    "name": "sdk:hook",
+    "entryType": "measure",
+    "startTime": 17340.5323,
+    "duration": 9940.7422,
+    "detail": null,
+    "success": true,
+    "failure": null,
+    "worker": "34880-0",
+    "testName": "El Pais Scraper Cross-Browser Test should scrape, translate and analyze articles",
+    "hookType": "beforeEach"
+},
+{
+    "name": "sdk:automate:session-name",
+    "entryType": "measure",
+    "startTime": 102890.3508,
+    "duration": 334.149900000004,
+    "detail": null,
+    "success": true,
+    "failure": null,
+    "worker": "34880-0",
+    "testName": "El Pais Scraper Cross-Browser Test should scrape, translate and analyze articles"
+},

@@ -1,0 +1,8 @@
+Desktop Browsers (3):
+Windows 11: Chrome (Latest)
+macOS Sonoma: Safari (Latest)
+Windows 10: Microsoft Edge (Latest)
+
+Mobile Devices (2):
+iPhone 15: Safari (iOS 17)
+Google Pixel 8: Chrome (Android 14)

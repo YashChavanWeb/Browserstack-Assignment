@@ -1,0 +1,160 @@
+2026-02-14 18:13:25 - [32minfo[39m: Reading configs from D:\Browserstack-Assignment\backend\browserstack.yml
+2026-02-14 18:13:25 - [32minfo[39m: Log Directory has been set to D:\Browserstack-Assignment\backend\log
+2026-02-14 18:13:25 - [32minfo[39m: Log Directory has been set to D:\Browserstack-Assignment\backend\log
+2026-02-14 18:13:25 - [32minfo[39m: Running SDK with args C:\Program Files\nodejs\node.exe D:\Browserstack-Assignment\backend\node_modules\browserstack-node-sdk\src\bin\runner.js jest tests/elpais.test.js
+2026-02-14 18:13:25 - [32minfo[39m: SDK run started with id: 435fe7b8-24be-46d2-8b70-6360e3b46f70
+2026-02-14 18:13:25 - [32minfo[39m: Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+2026-02-14 18:13:25 - [32minfo[39m: Running SDK with args C:\Program Files\nodejs\node.exe D:\Browserstack-Assignment\backend\node_modules\browserstack-node-sdk\src\bin\runner.js jest tests/elpais.test.js
+2026-02-14 18:13:47 - [32minfo[39m: Local binary started successfully
+2026-02-14 18:13:25 - [32minfo[39m: SDK run started with id: 435fe7b8-24be-46d2-8b70-6360e3b46f70
+2026-02-14 18:13:25 - [32minfo[39m: Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+2026-02-14 18:13:47 - [32minfo[39m: Local binary started successfully
+2026-02-14 18:13:48 - [32minfo[39m: Modifying jest configs to run tests on BrowserStack
+2026-02-14 18:13:48 - [32minfo[39m: Modifying jest configs to run tests on BrowserStack
+2026-02-14 18:13:49 - [31merror[39m: ACCESSIBILITY Build creation failed
+2026-02-14 18:13:49 - [31merror[39m: ACCESSIBILITY Build creation failed
+2026-02-14 18:13:49 - [32minfo[39m: Testhub started with id: dshri5lrzhmhzxajcdwasvihq9aqvwtlforcxcpe
+2026-02-14 18:13:49 - [32minfo[39m: Testhub started with id: dshri5lrzhmhzxajcdwasvihq9aqvwtlforcxcpe
+2026-02-14 18:13:49 - [32minfo[39m: Creating jest_browserstack.config.js with browserstack jest configs
+2026-02-14 18:13:49 - [32minfo[39m: Creating jest_browserstack.config.js with browserstack jest configs
+2026-02-14 18:13:49 - [32minfo[39m: Showing jest logs and reporter logs.
+2026-02-14 18:13:49 - [32minfo[39m: Showing jest logs and reporter logs.
+2026-02-14 18:14:27 - [32minfo[39m: Configuring to run tests on BrowserStack
+2026-02-14 18:14:27 - [32minfo[39m: Configuring to run tests on BrowserStack
+2026-02-14 18:14:27 - [32minfo[39m: Configuring to run tests on BrowserStack
+2026-02-14 18:14:27 - [32minfo[39m: Configuring to run tests on BrowserStack
+2026-02-14 18:14:27 - [32minfo[39m: Configuring to run tests on BrowserStack
+2026-02-14 18:18:38 - [32minfo[39m: Shutdown triggered by SIGINT
+2026-02-14 18:18:38 - [32minfo[39m: Shutdown triggered by SIGINT
+2026-02-14 18:18:38 - [31merror[39m: Cannot convert undefined or null to object
+2026-02-14 18:18:38 - [31merror[39m: Cannot convert undefined or null to object
+2026-02-14 18:18:38 - [32minfo[39m: Deleting jest_browserstack.config.js
+2026-02-14 18:18:38 - [32minfo[39m: Deleting jest_browserstack.config.js
+2026-02-14 18:18:40 - [32minfo[39m: [BrowserstackCLI] stop: CLI is not running, skipping stop
+2026-02-14 18:18:40 - [32minfo[39m: [BrowserstackCLI] stop: CLI is not running, skipping stop
+2026-02-14 18:18:40 - [32minfo[39m: Visit https://automation.browserstack.com/builds/dshri5lrzhmhzxajcdwasvihq9aqvwtlforcxcpe to view build report, insights, and many more debugging information all at one place!
+
+2026-02-14 18:18:40 - [32minfo[39m: View build on BrowserStack dashboard: https://automate.browserstack.com/dashboard/v2/builds/491fdc8605fb3a7b6c46ec10b016f5a4232af798
+2026-02-14 18:18:40 - [32minfo[39m: SDK run ended for id: 435fe7b8-24be-46d2-8b70-6360e3b46f70, testhub id: dshri5lrzhmhzxajcdwasvihq9aqvwtlforcxcpe
+2026-02-14 18:18:40 - [32minfo[39m: SDK run ended for id: 435fe7b8-24be-46d2-8b70-6360e3b46f70, testhub id: dshri5lrzhmhzxajcdwasvihq9aqvwtlforcxcpe
+2026-02-14 18:18:44 - [31merror[39m: spawn wmic.exe ENOENT
+2026-02-14 18:18:44 - [31merror[39m: spawn wmic.exe ENOENT
+2026-02-14 18:18:44 - [31merror[39m: Cannot read properties of undefined (reading 'map')
+2026-02-14 18:18:44 - [31merror[39m: Cannot read properties of undefined (reading 'map')
+2026-02-14 19:14:12 - [32minfo[39m: Reading configs from D:\Browserstack-Assignment\backend\browserstack.yml
+2026-02-14 19:14:12 - [32minfo[39m: Log Directory has been set to D:\Browserstack-Assignment\backend\log
+2026-02-14 19:14:12 - [32minfo[39m: Log Directory has been set to D:\Browserstack-Assignment\backend\log
+2026-02-14 19:14:12 - [32minfo[39m: Running SDK with args C:\Program Files\nodejs\node.exe D:\Browserstack-Assignment\backend\node_modules\browserstack-node-sdk\src\bin\runner.js jest tests/elpais.test.js
+2026-02-14 19:14:12 - [32minfo[39m: SDK run started with id: 3e62e371-1c47-4b2a-9595-2d727dd619eb
+2026-02-14 19:14:12 - [32minfo[39m: Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+2026-02-14 19:14:34 - [32minfo[39m: Local binary started successfully
+2026-02-14 19:14:12 - [32minfo[39m: Running SDK with args C:\Program Files\nodejs\node.exe D:\Browserstack-Assignment\backend\node_modules\browserstack-node-sdk\src\bin\runner.js jest tests/elpais.test.js
+2026-02-14 19:14:12 - [32minfo[39m: SDK run started with id: 3e62e371-1c47-4b2a-9595-2d727dd619eb
+2026-02-14 19:14:12 - [32minfo[39m: Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+2026-02-14 19:14:34 - [32minfo[39m: Local binary started successfully
+2026-02-14 19:14:35 - [32minfo[39m: Modifying jest configs to run tests on BrowserStack
+2026-02-14 19:14:35 - [32minfo[39m: Modifying jest configs to run tests on BrowserStack
+2026-02-14 19:14:36 - [31merror[39m: ACCESSIBILITY Build creation failed
+2026-02-14 19:14:36 - [31merror[39m: ACCESSIBILITY Build creation failed
+2026-02-14 19:14:36 - [32minfo[39m: Testhub started with id: jeaszaspxrvnpldvu0p8kkb8bvtigv5yqneenrm4
+2026-02-14 19:14:36 - [32minfo[39m: Testhub started with id: jeaszaspxrvnpldvu0p8kkb8bvtigv5yqneenrm4
+2026-02-14 19:14:37 - [32minfo[39m: Creating jest_browserstack.config.js with browserstack jest configs
+2026-02-14 19:14:37 - [32minfo[39m: Creating jest_browserstack.config.js with browserstack jest configs
+2026-02-14 19:14:37 - [32minfo[39m: Showing jest logs and reporter logs.
+2026-02-14 19:14:37 - [32minfo[39m: Showing jest logs and reporter logs.
+2026-02-14 19:15:23 - [32minfo[39m: Configuring to run tests on BrowserStack
+2026-02-14 19:15:23 - [32minfo[39m: Configuring to run tests on BrowserStack
+2026-02-14 19:15:23 - [32minfo[39m: Configuring to run tests on BrowserStack
+2026-02-14 19:15:25 - [32minfo[39m: Configuring to run tests on BrowserStack
+2026-02-14 19:15:26 - [32minfo[39m: Configuring to run tests on BrowserStack
+2026-02-14 19:20:21 - [32minfo[39m: Deleting jest_browserstack.config.js
+2026-02-14 19:20:21 - [32minfo[39m: Deleting jest_browserstack.config.js
+2026-02-14 19:20:22 - [32minfo[39m: [BrowserstackCLI] stop: CLI is not running, skipping stop
+2026-02-14 19:20:22 - [32minfo[39m: [BrowserstackCLI] stop: CLI is not running, skipping stop
+2026-02-14 19:20:22 - [32minfo[39m: Visit https://automation.browserstack.com/builds/jeaszaspxrvnpldvu0p8kkb8bvtigv5yqneenrm4 to view build report, insights, and many more debugging information all at one place!
+
+2026-02-14 19:20:22 - [32minfo[39m: View build on BrowserStack dashboard: https://automate.browserstack.com/dashboard/v2/builds/410bfe33d1d7426cc1de6684aa64b67c64a9492a
+2026-02-14 19:20:23 - [32minfo[39m: SDK run ended for id: 3e62e371-1c47-4b2a-9595-2d727dd619eb, testhub id: jeaszaspxrvnpldvu0p8kkb8bvtigv5yqneenrm4
+2026-02-14 19:20:23 - [32minfo[39m: SDK run ended for id: 3e62e371-1c47-4b2a-9595-2d727dd619eb, testhub id: jeaszaspxrvnpldvu0p8kkb8bvtigv5yqneenrm4
+2026-02-14 19:20:26 - [31merror[39m: spawn wmic.exe ENOENT
+2026-02-14 19:20:26 - [31merror[39m: spawn wmic.exe ENOENT
+2026-02-14 19:20:26 - [31merror[39m: Cannot read properties of undefined (reading 'map')
+2026-02-14 19:20:26 - [31merror[39m: Cannot read properties of undefined (reading 'map')
+2026-02-14 19:43:25 - [32minfo[39m: Reading configs from D:\Browserstack-Assignment\backend\browserstack.yml
+2026-02-14 19:43:25 - [32minfo[39m: Log Directory has been set to D:\Browserstack-Assignment\backend\log
+2026-02-14 19:43:25 - [32minfo[39m: Log Directory has been set to D:\Browserstack-Assignment\backend\log
+2026-02-14 19:43:25 - [32minfo[39m: Running SDK with args C:\Program Files\nodejs\node.exe D:\Browserstack-Assignment\backend\node_modules\browserstack-node-sdk\src\bin\runner.js jest tests/elpais.test.js
+2026-02-14 19:43:25 - [32minfo[39m: SDK run started with id: 4aabb96c-0fce-49a1-864d-09957f910599
+2026-02-14 19:43:25 - [32minfo[39m: Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+2026-02-14 19:43:44 - [32minfo[39m: Local binary started successfully
+2026-02-14 19:43:25 - [32minfo[39m: Running SDK with args C:\Program Files\nodejs\node.exe D:\Browserstack-Assignment\backend\node_modules\browserstack-node-sdk\src\bin\runner.js jest tests/elpais.test.js
+2026-02-14 19:43:25 - [32minfo[39m: SDK run started with id: 4aabb96c-0fce-49a1-864d-09957f910599
+2026-02-14 19:43:25 - [32minfo[39m: Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+2026-02-14 19:43:44 - [32minfo[39m: Local binary started successfully
+2026-02-14 19:43:45 - [32minfo[39m: Modifying jest configs to run tests on BrowserStack
+2026-02-14 19:43:45 - [32minfo[39m: Modifying jest configs to run tests on BrowserStack
+2026-02-14 19:43:46 - [31merror[39m: ACCESSIBILITY Build creation failed
+2026-02-14 19:43:46 - [31merror[39m: ACCESSIBILITY Build creation failed
+2026-02-14 19:43:46 - [32minfo[39m: Testhub started with id: lxu6dotkofrnsjtyzte5iwyl4gkmlx8eua5ucasv
+2026-02-14 19:43:46 - [32minfo[39m: Creating jest_browserstack.config.js with browserstack jest configs
+2026-02-14 19:43:46 - [32minfo[39m: Showing jest logs and reporter logs.
+2026-02-14 19:43:46 - [32minfo[39m: Testhub started with id: lxu6dotkofrnsjtyzte5iwyl4gkmlx8eua5ucasv
+2026-02-14 19:43:46 - [32minfo[39m: Creating jest_browserstack.config.js with browserstack jest configs
+2026-02-14 19:43:46 - [32minfo[39m: Showing jest logs and reporter logs.
+2026-02-14 19:44:26 - [32minfo[39m: Configuring to run tests on BrowserStack
+2026-02-14 19:44:26 - [32minfo[39m: Configuring to run tests on BrowserStack
+2026-02-14 19:44:26 - [32minfo[39m: Configuring to run tests on BrowserStack
+2026-02-14 19:44:26 - [32minfo[39m: Configuring to run tests on BrowserStack
+2026-02-14 19:44:26 - [32minfo[39m: Configuring to run tests on BrowserStack
+2026-02-14 19:50:03 - [32minfo[39m: Deleting jest_browserstack.config.js
+2026-02-14 19:50:03 - [32minfo[39m: Deleting jest_browserstack.config.js
+2026-02-14 19:50:04 - [32minfo[39m: [BrowserstackCLI] stop: CLI is not running, skipping stop
+2026-02-14 19:50:04 - [32minfo[39m: [BrowserstackCLI] stop: CLI is not running, skipping stop
+2026-02-14 19:50:04 - [32minfo[39m: Visit https://automation.browserstack.com/builds/lxu6dotkofrnsjtyzte5iwyl4gkmlx8eua5ucasv to view build report, insights, and many more debugging information all at one place!
+
+2026-02-14 19:50:04 - [32minfo[39m: View build on BrowserStack dashboard: https://automate.browserstack.com/dashboard/v2/builds/a18ffcfc45f62f3217473c15acb797bf9d99d61b
+2026-02-14 19:50:05 - [32minfo[39m: SDK run ended for id: 4aabb96c-0fce-49a1-864d-09957f910599, testhub id: lxu6dotkofrnsjtyzte5iwyl4gkmlx8eua5ucasv
+2026-02-14 19:50:05 - [32minfo[39m: SDK run ended for id: 4aabb96c-0fce-49a1-864d-09957f910599, testhub id: lxu6dotkofrnsjtyzte5iwyl4gkmlx8eua5ucasv
+2026-02-14 19:50:10 - [31merror[39m: spawn wmic.exe ENOENT
+2026-02-14 19:50:10 - [31merror[39m: spawn wmic.exe ENOENT
+2026-02-14 19:50:10 - [31merror[39m: Cannot read properties of undefined (reading 'map')
+2026-02-14 19:50:10 - [31merror[39m: Cannot read properties of undefined (reading 'map')
+2026-02-15 15:40:16 - [32minfo[39m: Reading configs from D:\Browserstack-Assignment\backend\browserstack.yml
+2026-02-15 15:40:16 - [32minfo[39m: Log Directory has been set to D:\Browserstack-Assignment\backend\log
+2026-02-15 15:40:16 - [32minfo[39m: Log Directory has been set to D:\Browserstack-Assignment\backend\log
+2026-02-15 15:40:16 - [32minfo[39m: Running SDK with args C:\Program Files\nodejs\node.exe D:\Browserstack-Assignment\backend\node_modules\browserstack-node-sdk\src\bin\runner.js jest tests/elpais.test.js
+2026-02-15 15:40:16 - [32minfo[39m: SDK run started with id: ccca2705-e648-4491-a42a-f149f26489a0
+2026-02-15 15:40:16 - [32minfo[39m: Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+2026-02-15 15:40:33 - [32minfo[39m: Local binary started successfully
+2026-02-15 15:40:16 - [32minfo[39m: Running SDK with args C:\Program Files\nodejs\node.exe D:\Browserstack-Assignment\backend\node_modules\browserstack-node-sdk\src\bin\runner.js jest tests/elpais.test.js
+2026-02-15 15:40:16 - [32minfo[39m: SDK run started with id: ccca2705-e648-4491-a42a-f149f26489a0
+2026-02-15 15:40:16 - [32minfo[39m: Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+2026-02-15 15:40:33 - [32minfo[39m: Local binary started successfully
+2026-02-15 15:40:34 - [32minfo[39m: Modifying jest configs to run tests on BrowserStack
+2026-02-15 15:40:34 - [32minfo[39m: Modifying jest configs to run tests on BrowserStack
+2026-02-15 15:40:35 - [31merror[39m: ACCESSIBILITY Build creation failed
+2026-02-15 15:40:35 - [31merror[39m: ACCESSIBILITY Build creation failed
+2026-02-15 15:40:35 - [32minfo[39m: Testhub started with id: cea0dxc6syaaxur0gohz6ndbrsvowvonxxgtdmjq
+2026-02-15 15:40:35 - [32minfo[39m: Testhub started with id: cea0dxc6syaaxur0gohz6ndbrsvowvonxxgtdmjq
+2026-02-15 15:40:35 - [32minfo[39m: Creating jest_browserstack.config.js with browserstack jest configs
+2026-02-15 15:40:35 - [32minfo[39m: Showing jest logs and reporter logs.
+2026-02-15 15:40:35 - [32minfo[39m: Creating jest_browserstack.config.js with browserstack jest configs
+2026-02-15 15:40:35 - [32minfo[39m: Showing jest logs and reporter logs.
+2026-02-15 15:41:02 - [32minfo[39m: Configuring to run tests on BrowserStack
+2026-02-15 15:41:02 - [32minfo[39m: Configuring to run tests on BrowserStack
+2026-02-15 15:41:02 - [32minfo[39m: Configuring to run tests on BrowserStack
+2026-02-15 15:41:02 - [32minfo[39m: Configuring to run tests on BrowserStack
+2026-02-15 15:41:03 - [32minfo[39m: Configuring to run tests on BrowserStack
+2026-02-15 15:42:44 - [32minfo[39m: Deleting jest_browserstack.config.js
+2026-02-15 15:42:44 - [32minfo[39m: Deleting jest_browserstack.config.js
+2026-02-15 15:42:45 - [32minfo[39m: [BrowserstackCLI] stop: CLI is not running, skipping stop
+2026-02-15 15:42:45 - [32minfo[39m: [BrowserstackCLI] stop: CLI is not running, skipping stop
+2026-02-15 15:42:45 - [32minfo[39m: Visit https://automation.browserstack.com/builds/cea0dxc6syaaxur0gohz6ndbrsvowvonxxgtdmjq to view build report, insights, and many more debugging information all at one place!
+
+2026-02-15 15:42:45 - [32minfo[39m: View build on BrowserStack dashboard: https://automate.browserstack.com/dashboard/v2/builds/96076e855ef7a24bf4de27a5ebbf652adc87e5d6
+2026-02-15 15:42:45 - [32minfo[39m: SDK run ended for id: ccca2705-e648-4491-a42a-f149f26489a0, testhub id: cea0dxc6syaaxur0gohz6ndbrsvowvonxxgtdmjq
+2026-02-15 15:42:45 - [32minfo[39m: SDK run ended for id: ccca2705-e648-4491-a42a-f149f26489a0, testhub id: cea0dxc6syaaxur0gohz6ndbrsvowvonxxgtdmjq
+2026-02-15 15:42:50 - [31merror[39m: spawn wmic.exe ENOENT
+2026-02-15 15:42:50 - [31merror[39m: spawn wmic.exe ENOENT
+2026-02-15 15:42:50 - [31merror[39m: Cannot read properties of undefined (reading 'map')
+2026-02-15 15:42:50 - [31merror[39m: Cannot read properties of undefined (reading 'map')
